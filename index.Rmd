@@ -5,6 +5,9 @@ date: '`r Sys.Date()`'
 output:
   bookdown::gitbook: 
     config:
+      toc:
+        before: |
+          <li><a href="./">a book</a></li>
       sharing: null
 documentclass: book
 bibliography: biblio.bib
@@ -13,6 +16,8 @@ link-citations: true
 ---
 
 # Preface {-}
+
+![](fridgebot_bw.svg)
 
 In this book, I will test bookdown.
 
