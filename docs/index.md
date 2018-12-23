@@ -1,7 +1,7 @@
 ---
 title: 'a bookdown template'
 author: 'wrc'
-date: '`r Sys.Date()`'
+date: '2018-12-23'
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [biblio.bib]
