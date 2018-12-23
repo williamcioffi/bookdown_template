@@ -1,0 +1,18 @@
+---
+title: 'a book'
+author: 'wrc'
+date: '`r Sys.Date()`'
+output:
+  bookdown::gitbook: 
+    config:
+      sharing: null
+documentclass: book
+bibliography: biblio.bib
+csl: journal-of-mammalogy.csl
+link-citations: true
+---
+
+# Preface {-}
+
+In this book, I will test bookdown.
+

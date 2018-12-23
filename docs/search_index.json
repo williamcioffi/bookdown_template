@@ -1,0 +1,6 @@
+[
+["index.html", "a book Preface", " a book wrc 2018-12-23 Preface In this book, I will test bookdown. "],
+["introduction.html", "1 Introduction", " 1 Introduction In this chapter, I will test bookdown. Also, Here is a citation (Cairns and Schwager 1987). References "],
+["more-chapters.html", "2 More chapters", " 2 More chapters Here is another chapter. And here is another citation (Seed et al. 2007) and another (Loretto et al. 2012). References "],
+["references.html", "References", " References "]
+]
